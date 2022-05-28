@@ -1,1 +1,4 @@
-# portfolio_website
+# In this project i use:
+- HTML
+- CSS
+- JS
